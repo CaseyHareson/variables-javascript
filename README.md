@@ -13,3 +13,10 @@
 2. Assign variable name value equal to "John";
 3. Assign variable admin value equal to variable name;
 4. Call alert() with variable admin to display value "John";
+
+### New Objective:
+1. Create a test for solution verification. 
+
+### New Procedure: 
+1. Test name and admin variables value using if statement.
+
